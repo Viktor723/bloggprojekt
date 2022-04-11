@@ -2,6 +2,19 @@ export default {
 
 
 
+  generate: {
+
+      routes: [
+
+        "/pages/about-us",
+        "/pages/contact-us",
+        
+
+
+
+      ]
+  },
+
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
