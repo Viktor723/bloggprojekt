@@ -11,7 +11,7 @@ src="https://docs.google.com/forms/d/e/1FAIpQLSeHSU--MwIdd-qVojU7XQMtawQkdZd42ps
     onload="loaded()">
         Loading...
 </iframe>
-></div>
+</div>
 
 </template>
 

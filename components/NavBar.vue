@@ -46,7 +46,7 @@
 
         <ul class="divide-y font-sans">
           <li><button @click="navigate('/')" class="my-4 inline-block text-white">Inlägg</button></li>
-          <li><button @click="navigate('/about-us')" class="my-4 inline-block text-white">Om oss</button></li>
+          <!-- <li><button @click="navigate('/about-us')" class="my-4 inline-block text-white">Om oss</button></li> -->
           <li><button @click="navigate('/contact-us')" class="my-4 inline-block text-white">Kontakta oss</button></li>
           
         </ul>
@@ -66,7 +66,7 @@
 
       <!-- Header logo -->
       <div>
-        <h1>Mail</h1>
+        <h1></h1>
       </div>
     </div>
   </nav>

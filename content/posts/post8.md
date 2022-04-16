@@ -11,7 +11,7 @@ image: /images/post-8.png
 ## ⠀
 # **ADEL HÄKTAD FÖR GROVT FRIDSKRÄNKNING**
 ## ⠀
-I fredags greps #Adel misstänkt på sannolika skäl för grovt fridskränkning. Brotten ska ha skett under ett och ett halvt år i både Sverige och Spanien.
+I fredags greps Adel misstänkt på sannolika skäl för grovt fridskränkning. Brotten ska ha skett under ett och ett halvt år i både Sverige och Spanien.
 ## ⠀
 Artistens advokat har uppgett att hennes klient nekar till brott.
 ##  ⠀
