@@ -10,7 +10,7 @@
 export default {
   name: 'IndexPage',
   async asyncData({$content}) {
-    let posts = await $content('posts').without(['body']).fetch()
+    let posts = await $content('posts').sortBy("id", "asc").without(['body']).fetch()
     return {
       posts
     }

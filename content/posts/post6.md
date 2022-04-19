@@ -9,15 +9,17 @@ image: /images/post-6.png
 <div class="m-10">
 
 ## ⠀
-# **GÖTEBORGSRAPPAREN TREEZE ÅTALAS FÖR GROVT NARKOTIKABROTT**
+# **VAPNET I DREE LOWS FALL SKA HA INNEHAFTS AV EINÁR**
 
- Göteborgsrapparen "Treeze" lånade lägenheten för att kompisen behövde någonstans att sova, men när poliserna klev in i bostaden satt två personer med kopplingar till ett kriminellt nätverk och portionspaketerade narkotika.
+##  
 
-Nu åtalas fyra personer för grovt narkotikabrott.
-När männen såg polisen försökte de fly, dock utan framgång.
+Dree Low åtalades i onsdags mot sitt nekande för grovt vapenbrott. Enligt åtalet förvarade han en halvautomatisk pistol helt öppet i sin lägenhet.
+## ⠀
 
-Totalt blev det ett beslag på 5,7 kilo cannabis och
-3 579 tramadoltabletter. Narkotika som på gatan har ett värde på närmare 700 000 kronor. 
+Samma vapen som artisten åtalas för ska ha innehafts av den tidiga artistkollegan Einár.
+## ⠀
+Efter att ha utfört en telefontömning kunde man hitta filmer på Einárs mobil där han, den 17 maj 2020, figurerat med ett vapen. Vapnet har enligt 
+kriminaltekniker konstaterats vara samma vapen som påträffades hemma hos Dree Low vid husrannsakan den 22 maj 2020.
 
 ##  ⠀
 </div>
